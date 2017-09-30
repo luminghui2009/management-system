@@ -1,7 +1,7 @@
 ## 全局安装脚手架create-react-app
 - npm install -g create-react-app
-- create-react-app self
-- cd self
+- create-react-app management-system
+- cd management-system
 - npm start
 - 查看webpack配置文件 npm run eject
 ## 引入antd和按需加载样式插件babel-plugin-import
